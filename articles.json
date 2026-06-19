@@ -1,0 +1,23 @@
+[
+  {
+    "id": "apn",
+    "categoryId": "quick_start",
+    "title": "Настройка мобильного интернета (APN)",
+    "content": "Инструкция по настройке мобильного интернета.",
+    "originalUrl": "https://handbook.mcn.ru/ru/baza-znaniy-abonentov-mc-nmobile-fizicheskikh-lits/bystriy-start/nastroyka-mobilnogo-interneta-apn--b0e497f2-6087-4049-8096-e57b38ce8baf/"
+  },
+  {
+    "id": "verification",
+    "categoryId": "connection",
+    "title": "Как пройти верификацию абонента",
+    "content": "Инструкция по прохождению верификации.",
+    "originalUrl": "https://handbook.mcn.ru/ru/baza-znaniy-abonentov-mc-nmobile-fizicheskikh-lits/podklyuchenie-k-mcn-telecom/kak-proyti-verifikatsiyu-identifikatsiyu-abonenta--49668d4c-5c68-4b79-94a9-10998c17e844/"
+  },
+  {
+    "id": "contract",
+    "categoryId": "terms",
+    "title": "Как расторгнуть договор",
+    "content": "Информация о расторжении договора.",
+    "originalUrl": "https://handbook.mcn.ru/ru/baza-znaniy-abonentov-mc-nmobile-fizicheskikh-lits/terminy-i-opredeleniya/kak-rastorgnut-dogovor--0933012b-79f0-4376-a289-1b4f17658a60/"
+  }
+]
